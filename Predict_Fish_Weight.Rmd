@@ -124,6 +124,8 @@ pike2=lm(Weight~Length1+Length3,data=Pike)
 summary.lm(pike2)
 ```
 
+The best 2 regressor model to help predict Weight is Length 1 and Length 3.  
+
 ## Roach
 
 ### Best Models
