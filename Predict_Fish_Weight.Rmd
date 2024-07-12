@@ -163,3 +163,9 @@ summary.lm(roach2)
 The best 2 regressor model to help predict Weight is Length 3 and Width.  
 
 ## Final Summary Statements
+
+When trying to figure out what the best way to find out Height for Perch is Height and Width.   
+
+When trying to figure out what the best way to find out Height for Pike is Length 1 and Length 3.  
+
+When trying to figure out what the best way to find out Height for Roach is Length 3 and Width.  
