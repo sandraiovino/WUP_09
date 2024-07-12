@@ -119,6 +119,10 @@ subsets(regsubsets.out,statistic="adjr2",legend="bottomright",main="Adjusted R^2
   The best variables to predict weight is Length1 and Length3.    
 
 ### Best Two regressor model
+```{r}
+pike2=lm(Weight~Length1+Length3,data=Pike)
+summary.lm(pike2)
+```
 
 ## Roach
 
